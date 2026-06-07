@@ -10,8 +10,14 @@ To write a Python program that checks if the element `'n'` and the element `8` e
 4. Print the results.
 
 ## 🧾 Program
-Add code here
-
+```
+main_tuple = ("s", "8", "a", "v", "n", "g", "u", "r", "c", "e")
+print("n" in main_tuple)
+print("8" in main_tuple)
+```
 ## Output
+<img width="450" height="223" alt="image" src="https://github.com/user-attachments/assets/76a4811e-6121-47cc-bff8-f552b2f0fcb2" />
+
 
 ## Result
+Thus,the program has been execueted successfully.
